@@ -42,5 +42,6 @@
       "createdAt": "2026-11-22T00:00:00Z",
       "note": "Registry write exercised end to end."
     }
-  ]
+  ],
+  "factoryBlock": 101077591
 }
