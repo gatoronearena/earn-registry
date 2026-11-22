@@ -8,10 +8,10 @@
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
       "trackedToken": "0xd049d14a11b2d8f256edb482653f429ee82723ba",
       "trackedSymbol": "SWAMP",
-      "rewardToken": "0x52336278922e4ba9FD3F3Cc54a6c651c91F8a9dd",
+      "rewardToken": "0x52336278922e4ba9fd3f3cc54a6c651c91f8a9dd",
       "rewardSymbol": "tSWAMP",
       "rewardDecimals": 18,
-      "publisher": "0xd76eb8c470d36c3ea28793f046eb259ff866627",
+      "publisher": "0xd76eb8c470d36c3eaa28793f046eb259ff866627",
       "deployBlock": 101077591,
       "budget": "1000000",
       "dustCutoff": "0",
@@ -22,7 +22,7 @@
       "managed": true,
       "epochDays": 7,
       "createdAt": "2026-11-22T00:00:00Z",
-      "note": "Dry run on mainnet with a throwaway reward token."
+      "note": "Registry write exercised end to end."
     }
   ]
 }
