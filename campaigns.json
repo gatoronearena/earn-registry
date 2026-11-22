@@ -3,6 +3,24 @@
   "factory": "0x3597A064F8932f908B162872b920Ae7a444c015C",
   "campaigns": [
     {
+      "slug": "gator",
+      "name": "Gator",
+      "id": "0xd61e2b756d3549b3b56d2551748d46cfa10bfa0ba569af72944f268d28a11e9a",
+      "trackedToken": "0x1a31a8fd8bacb64b32dbcdcf5b2215f58baf70c1",
+      "trackedSymbol": "GATOR",
+      "rewardToken": "0xd049d14a11b2d8f256edb482653f429ee82723ba",
+      "rewardSymbol": "SWAMP",
+      "rewardDecimals": 18,
+      "publisher": "0x01ff426657e36de791664127de5088392b562ec4",
+      "deployBlock": 0,
+      "budget": "100",
+      "dustCutoff": "0.1",
+      "exclusions": [],
+      "managed": true,
+      "epochDays": 7,
+      "createdAt": "2026-11-22T18:59:20.057Z"
+    },
+    {
       "slug": "swamp-test",
       "name": "SWAMP hold-earn dry run",
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
