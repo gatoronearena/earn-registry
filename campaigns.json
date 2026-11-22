@@ -21,6 +21,24 @@
       "createdAt": "2026-11-22T18:59:20.057Z"
     },
     {
+      "slug": "gator2",
+      "name": "Gator2",
+      "id": "0xdd7d2112ca929baa38f314a2b703d407fab3ab43c5c6db8aa54a1e679fefc81c",
+      "trackedToken": "0x1a31a8fd8bacb64b32dbcdcf5b2215f58baf70c1",
+      "trackedSymbol": "GATOR",
+      "rewardToken": "0xd049d14a11b2d8f256edb482653f429ee82723ba",
+      "rewardSymbol": "SWAMP",
+      "rewardDecimals": 18,
+      "publisher": "0x01ff426657e36de791664127de5088392b562ec4",
+      "deployBlock": 101098082,
+      "budget": "50",
+      "dustCutoff": "0.1",
+      "exclusions": [],
+      "managed": true,
+      "epochDays": 1,
+      "createdAt": "2026-11-22T19:48:15.992Z"
+    },
+    {
       "slug": "swamp-test",
       "name": "SWAMP hold-earn dry run",
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
