@@ -59,6 +59,24 @@
       "epochDays": 7,
       "createdAt": "2026-11-22T00:00:00Z",
       "note": "Registry write exercised end to end."
+    },
+    {
+      "slug": "topia-test",
+      "name": "TOPIA Test",
+      "id": "0xf2fdb344430b72348be268e85efebc40351fd62cf3ccc36834d05d7373132105",
+      "trackedToken": "0xdf50ad73b92c758bbf94869b4b7b9128bbe4a475",
+      "trackedSymbol": "TOPIA",
+      "rewardToken": "0xb8d7710f7d8349a506b75dd184f05777c82dad0c",
+      "rewardSymbol": "ARENA",
+      "rewardDecimals": 18,
+      "publisher": "0xeead31aa69a5afaa902ddffaa758d8d81c992a73",
+      "deployBlock": 101209352,
+      "budget": "100000",
+      "dustCutoff": "100",
+      "exclusions": [],
+      "managed": true,
+      "epochDays": 1,
+      "createdAt": "2026-11-23T23:59:25.026Z"
     }
   ],
   "factoryBlock": 101077591
