@@ -58,7 +58,8 @@
       "managed": true,
       "epochDays": 7,
       "createdAt": "2026-11-22T00:00:00Z",
-      "note": "Registry write exercised end to end."
+      "note": "Registry write exercised end to end.",
+      "archivedAt": "2026-11-24T00:49:02.608Z"
     },
     {
       "slug": "topia-test",
