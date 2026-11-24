@@ -61,6 +61,24 @@
       "createdAt": "2026-11-24T22:09:36.642Z"
     },
     {
+      "slug": "red-frogs-love-raves",
+      "name": "Red frogs love raves",
+      "id": "0x861eec5acfea41d0233adec10ccd7fa9c6c2dc062d4dd1fc9696459eb7aeda55",
+      "trackedToken": "0x1c7d9a6ba20bccfe574c94e469a8101c629143c7",
+      "trackedSymbol": "RAVE",
+      "rewardToken": "0xa479796434c668dce1881ed1e0d88fe87aadadb8",
+      "rewardSymbol": "REDFO",
+      "rewardDecimals": 18,
+      "publisher": "0xeb0cf5641d5a4a0ce31a60cccd5490b52058515a",
+      "deployBlock": 101299208,
+      "budget": "4200000",
+      "dustCutoff": "999",
+      "exclusions": [],
+      "managed": true,
+      "epochDays": 7,
+      "createdAt": "2026-11-24T23:31:10.301Z"
+    },
+    {
       "slug": "swamp-test",
       "name": "SWAMP hold-earn dry run",
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
