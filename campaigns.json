@@ -43,6 +43,24 @@
       "archivedAt": "2026-11-24T16:54:13.361Z"
     },
     {
+      "slug": "june",
+      "name": "$JUNE",
+      "id": "0xb0e414637b2a612dace0cef8581ea2989c6107447652a5a7b863f70da24578cb",
+      "trackedToken": "0x23c5c447d297a2d4efd9db0d3053431a173b49fd",
+      "trackedSymbol": "JUNE",
+      "rewardToken": "0x23c5c447d297a2d4efd9db0d3053431a173b49fd",
+      "rewardSymbol": "JUNE",
+      "rewardDecimals": 18,
+      "publisher": "0x58fef489dc3560343c1a554a73dcd3ec67562d49",
+      "deployBlock": 101294319,
+      "budget": "10000000",
+      "dustCutoff": "100",
+      "exclusions": [],
+      "managed": true,
+      "epochDays": 1,
+      "createdAt": "2026-11-24T22:09:36.642Z"
+    },
+    {
       "slug": "swamp-test",
       "name": "SWAMP hold-earn dry run",
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
