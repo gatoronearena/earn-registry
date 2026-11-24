@@ -19,7 +19,8 @@
       "managed": true,
       "epochDays": 7,
       "createdAt": "2026-11-22T18:59:20.057Z",
-      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
+      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c",
+      "archivedAt": "2026-11-24T16:56:25.877Z"
     },
     {
       "slug": "gator2",
