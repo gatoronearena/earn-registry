@@ -86,5 +86,11 @@
       "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
     }
   ],
-  "factoryBlock": 101212921
+  "factoryBlock": 101212921,
+  "creators": [
+    "0xeead31aa69a5afaa902ddffaa758d8d81c992a73",
+    "0x13c4289dffa82641aeadf219c090e1bd67a66150",
+    "0xd76eb8c470d36c3eaa28793f046eb259ff866627",
+    "0x40050e9046ac09bd20ec3eb322291de35af36ef6"
+  ]
 }
