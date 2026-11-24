@@ -1,6 +1,6 @@
 {
   "chain": "avalanche",
-  "factory": "0x3597A064F8932f908B162872b920Ae7a444c015C",
+  "factory": "0x25e73aab86669a6a0e41f8508a7668a59909a4e7",
   "campaigns": [
     {
       "slug": "gator",
@@ -18,7 +18,8 @@
       "exclusions": [],
       "managed": true,
       "epochDays": 7,
-      "createdAt": "2026-11-22T18:59:20.057Z"
+      "createdAt": "2026-11-22T18:59:20.057Z",
+      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
     },
     {
       "slug": "gator2",
@@ -36,7 +37,8 @@
       "exclusions": [],
       "managed": true,
       "epochDays": 1,
-      "createdAt": "2026-11-22T19:48:15.992Z"
+      "createdAt": "2026-11-22T19:48:15.992Z",
+      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
     },
     {
       "slug": "swamp-test",
@@ -59,7 +61,8 @@
       "epochDays": 7,
       "createdAt": "2026-11-22T00:00:00Z",
       "note": "Registry write exercised end to end.",
-      "archivedAt": "2026-11-24T00:49:02.608Z"
+      "archivedAt": "2026-11-24T00:49:02.608Z",
+      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
     },
     {
       "slug": "topia-test",
@@ -77,8 +80,9 @@
       "exclusions": [],
       "managed": true,
       "epochDays": 1,
-      "createdAt": "2026-11-23T23:59:25.026Z"
+      "createdAt": "2026-11-23T23:59:25.026Z",
+      "factory": "0x3597a064f8932f908b162872b920ae7a444c015c"
     }
   ],
-  "factoryBlock": 101077591
+  "factoryBlock": 101212921
 }
