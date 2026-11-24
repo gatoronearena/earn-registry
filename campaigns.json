@@ -39,25 +39,6 @@
       "createdAt": "2026-11-22T19:48:15.992Z"
     },
     {
-      "slug": "qa-row-test",
-      "name": "QA row test",
-      "id": "0x63adc1a5c5b7b4b32d7f98e8f2a8bb73bb100f01d362dd60038d9e63148450d2",
-      "trackedToken": "0x1a31a8fd8bacb64b32dbcdcf5b2215f58baf70c1",
-      "trackedSymbol": "GATOR",
-      "rewardToken": "0xd049d14a11b2d8f256edb482653f429ee82723ba",
-      "rewardSymbol": "SWAMP",
-      "rewardDecimals": 18,
-      "publisher": "0xd76eb8c470d36c3eaa28793f046eb259ff866627",
-      "deployBlock": 101210954,
-      "budget": "1",
-      "dustCutoff": "0.1",
-      "exclusions": [],
-      "managed": true,
-      "epochDays": 7,
-      "createdAt": "2026-11-24T00:25:47.622Z",
-      "archivedAt": "2026-11-24T00:25:49.528Z"
-    },
-    {
       "slug": "swamp-test",
       "name": "SWAMP hold-earn dry run",
       "id": "0x5d29e9d9cc83b82b7851d8f11e58bb6fa76a929e435d02dd893ff63547a144c5",
